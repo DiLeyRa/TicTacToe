@@ -1,5 +1,15 @@
 # TicTacToe
 
+Un juego simple de TicTacToe creado para dispositivos con Android.
+
+Del popular juego fue desarrollada usando Android Studio. Es un juego de dos jugadores: X y O, que marcan los espacios de un tablero de 3×3 alternadamente.
+
+![VISTA]()
+
+## Desarrollado para
+
+Laboratoria
+
 
 ## Descargar proyecto
 
