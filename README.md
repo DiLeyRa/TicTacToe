@@ -4,7 +4,7 @@ Un juego simple de TicTacToe creado para dispositivos con Android.
 
 Del popular juego fue desarrollada usando Android Studio. Es un juego de dos jugadores: X y O, que marcan los espacios de un tablero de 3×3 alternadamente.
 
-![VISTA]()
+![captura](https://user-images.githubusercontent.com/39387629/49237582-1c601a80-f3c4-11e8-9651-19dd2e907ab9.PNG)
 
 ## Desarrollado para
 
